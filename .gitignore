@@ -1,0 +1,6 @@
+﻿GLM-OCR/model.safetensors
+GLM-OCR/.cache/
+.ipynb_checkpoints/
+__pycache__/
+.env
+.venv/
